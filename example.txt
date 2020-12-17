@@ -1,6 +1,0 @@
-my exam line1
-my example line2
-my example line3
-my example line4
-my example line5
-my example line6
